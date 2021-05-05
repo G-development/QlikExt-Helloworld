@@ -1,0 +1,9 @@
+{
+    "name" : "Giov Extension",
+    "description" : "G - Description of the extension",
+    "icon" : "extension",
+    "preview" : "gc.png",
+    "type" : "visualization",
+    "version": "0.1",
+    "author": "Giovanni Cuozzo"
+}
